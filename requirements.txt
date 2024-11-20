@@ -1,0 +1,6 @@
+mechanize
+beautifulsoup4
+requests
+futures==2
+bs4 
+mechanize
